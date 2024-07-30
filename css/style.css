@@ -344,9 +344,9 @@ header{
 
 /* 작업물 리스트 형식 */
 .list{
-    margin-top: 1.5%;
-    margin-left: 10%;
     position: absolute;
+    top: 1.5%;
+    left: 10%;
 }
 
 .list>li{
